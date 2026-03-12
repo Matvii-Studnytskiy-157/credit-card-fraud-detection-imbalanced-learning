@@ -30,22 +30,22 @@ The final model is evaluated through **precision–recall analysis and threshold
 credit-card-fraud-detection-imbalanced-learning/
 │
 ├── notebooks/
-│ └── fraud_detection_imbalanced_learning.ipynb
+│   └── fraud_detection_imbalanced_learning.ipynb
 │
 ├── figures/
-│ ├── class_distribution.png
-│ ├── transaction_amount_distribution.png
-│ ├── transaction_amount_distribution_by_class.png
-│ ├── transaction_time_distribution.png
-│ ├── confusion_matrix_smote_random_forest.png
-│ ├── confusion_matrix_random_forest.png
-│ ├── roc_curve_comparison.png
-│ ├── precision_recall_curve_comparison.png
-│ ├── threshold_optimization.png
-│ └── confusion_matrix_optimized_threshold.png
+│   ├── class_distribution.png
+│   ├── transaction_amount_distribution.png
+│   ├── transaction_amount_distribution_by_class.png
+│   ├── transaction_time_distribution.png
+│   ├── confusion_matrix_smote_random_forest.png
+│   ├── confusion_matrix_random_forest.png
+│   ├── roc_curve_comparison.png
+│   ├── precision_recall_curve_comparison.png
+│   ├── threshold_optimization.png
+│   └── confusion_matrix_optimized_threshold.png
 │
 ├── data/
-│ └── (dataset not included)
+│   └── (dataset not included)
 │
 ├── README.md
 ├── requirements.txt

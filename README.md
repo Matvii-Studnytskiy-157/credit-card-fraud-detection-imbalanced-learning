@@ -26,6 +26,7 @@ The final model is evaluated through **precision–recall analysis and threshold
 
 ## Repository Structure
 
+---
 
 credit-card-fraud-detection-imbalanced-learning/
 │

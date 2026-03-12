@@ -45,7 +45,7 @@ credit-card-fraud-detection-imbalanced-learning/
 │   └── confusion_matrix_optimized_threshold.png
 │
 ├── data/
-│   └── (dataset not included)
+│   └── (dataset not included, creditcard.txt is a formality, contains Kaggle link)
 │
 ├── README.md
 ├── requirements.txt

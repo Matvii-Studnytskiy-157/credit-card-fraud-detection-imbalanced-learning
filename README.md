@@ -287,5 +287,3 @@ Potential extensions of this project include:
 ## Author
 
 **Matvii Studnytskiy**
-
-Machine Learning Portfolio Project
